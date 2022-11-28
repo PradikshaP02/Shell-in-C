@@ -1,4 +1,5 @@
-I have implemented shell in C
+I have implemented shell in C.
+
 Commands Implemented include :
 - cat
 - cd
